@@ -1,0 +1,6 @@
+secretkey.json
+*.a
+*.so
+*.h*
+include/*
+lib/*
